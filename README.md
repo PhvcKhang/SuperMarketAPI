@@ -1,2 +1,2 @@
 # SuperMarketAPI
-Trainning FabLab
+Training FabLab
